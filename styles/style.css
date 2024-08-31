@@ -1,0 +1,57 @@
+
+.FSTrow {
+    margin-left: 30px;
+}
+
+.section-1 {
+    background-color: #fceae3;
+}
+
+.section-2 {
+    background-color: #F7C9D3;
+}
+
+.imgcard {
+    /* border: 2px solid black; */
+    margin-left: 50px;
+}
+
+.cardreader {
+    align-content:space-evenly ;
+    margin-left: 60px;
+}
+
+.imagecard {
+    width: 100px;
+}
+
+.hero {
+    margin-top:130px !important;
+}
+.sectionimg {
+    background-color: rgb(241, 241, 241);
+}
+
+.text-1{
+    font-size: 12px !important;
+    color: rgb(82, 82, 82);
+    font-weight: 700 !important;
+}
+
+.phone15 {
+    margin-top: -15px;
+    margin-left: 120px;
+}
+
+.samsung {
+    font-size: 28px !important;
+    font-weight: 700 !important;
+}
+
+
+
+
+
+.imagefoot {
+    margin-left: 80px !important;
+}
