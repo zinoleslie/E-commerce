@@ -63,3 +63,8 @@
 .imagefoot {
     margin-left: 80px !important;
 }
+
+.footerbox {
+    margin-left:100px;
+    margin-top: -30px;
+}
